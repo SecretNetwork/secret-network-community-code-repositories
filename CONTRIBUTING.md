@@ -9,8 +9,8 @@ We will primarily use your github profile as the number one source for vetting y
 ## 📑 Format and Guidelines
 
 - Fork the project.
-- Submit 1 PR (pull request) per issue. This makes PRs more manageable and easier to review. 
-- Submit a pull request.
+- Submit one PR (pull request) per issue. This makes PRs more manageable and easier to review. 
+- Submitting a PR
   - You should submit the PR to the master/main branch of our repo.
   - You should include the text "Fixes(issue number)" so that Github can auto close the issue for us after we accept the PR. See [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) for more details.
 
