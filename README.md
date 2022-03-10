@@ -3,5 +3,6 @@ List of all community code repositories as described in the Secret Network Devel
 
 Consider this a starting point for all repositories that have been or will be funded by the Secret Network Developer Committee
 
-* [Fund Forwarding Contract](https://github.com/zorostang/fund-forwarding)
-* [Fund Forwarding (Frontend)](https://github.com/zorostang/fund-forwarding-frontend)
+* 🧑‍💻[Fund Forwarding Contract](https://github.com/zorostang/fund-forwarding)
+* 🧑‍💻[Fund Forwarding (Frontend)](https://github.com/zorostang/fund-forwarding-frontend)
+* 
