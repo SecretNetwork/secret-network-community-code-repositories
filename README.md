@@ -5,5 +5,5 @@ Consider this a starting point for all repositories that have been or will be fu
 
 * 🧑‍💻[Fund Forwarding Contract](https://github.com/zorostang/fund-forwarding)
 * 🧑‍💻[Fund Forwarding (Frontend)](https://github.com/zorostang/fund-forwarding-frontend)
-* 💰[NFT Authorization](https://github.com/zorostang/nft-authorization)
-* 💰[NFT Authorization Frontend](https://github.com/zorostang/nft-authorization-front-end)
+* 💰[NFT Authorization](https://github.com/zorostang/nft-authorization) ($500 USD Bounty)
+* 💰[NFT Authorization Frontend](https://github.com/zorostang/nft-authorization-front-end) ($500 USD Bounty)
