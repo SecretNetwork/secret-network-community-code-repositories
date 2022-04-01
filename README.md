@@ -9,3 +9,4 @@ Consider this a starting point for all repositories that have been or will be fu
 * 🧑‍💻[NFT Authorization Frontend](https://github.com/zorostang/nft-authorization-front-end) ($500 USD Bounty)
 * 🧑‍💻[SCRT-ETH Bridge Examples](https://github.com/zorostang/scrt-eth-bridge-examples) ($1,500 USD Bounty)
 * 💰[Secret Factory Contract](https://github.com/zorostang/secret-factory-contract)($1,000 USD Bounty)
+* 💰[SNIP3 Fixed Multisig](https://github.com/zorostang/snip3-fixed-multisig)($1,500 USD Bounty)
