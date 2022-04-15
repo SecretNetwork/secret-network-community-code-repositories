@@ -1,24 +1,34 @@
 [[repo]]
-url = https://github.com/scrtlabs/secret-template
-title = Secret Contracts Starter
+url = "https://github.com/scrtlabs/secret-template"
+title = "Secret Contracts Starter"
 use-cargo-generate = true
 
 [[repo]]
-url = https://github.com/scrtlabs/snip20-reference-impl
-title = SNIP-20 Reference Implementation
+url = "https://github.com/scrtlabs/snip20-reference-impl"
+title = "SNIP-20 Reference Implementation"
 
 [[repo]]
-url = https://github.com/baedrik/snip721-reference-impl
-title = SNIP-721 Reference Implementation
+url = "https://github.com/baedrik/snip721-reference-impl"
+title = "SNIP-721 Reference Implementation"
 
 [[repo]]
-url = https://github.com/luminaryphi/secret-random-minting-snip721-impl
-title = Randomized SNIP-721 Mint Implementation
+url = "https://github.com/luminaryphi/secret-random-minting-snip721-impl"
+title = "Randomized SNIP-721 Mint Implementation"
 
 [[repo]]
-url = https://github.com/zorostang/nft-authorization
-title = NFT Authorization
+url = "https://github.com/zorostang/nft-authorization"
+title = "NFT Authorization"
 
 [[repo]]
-url = https://github.com/zorostang/fund-forwarding
-title = Fund Fiorwarding
+url = "https://github.com/zorostang/fund-forwarding"
+title = "Fund Fiorwarding"
+
+[[repo]]
+url = "https://github.com/zorostang/secret-factory-contract"
+title = "Factory Contract Factory"
+subfolder = "factory"
+
+[[repo]]
+url = "https://github.com/zorostang/secret-factory-contract"
+title = "Factory Contract Offspring"
+subfolder = "offspring"
