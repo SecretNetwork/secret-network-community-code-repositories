@@ -1,6 +1,10 @@
 [[repo]]
-url = "https://github.com/scrtlabs/secret-template"
+url = "https://github.com/TriviumNode/secret-contract-template"
 title = "Secret Contracts Starter"
+
+[[repo]]
+url = "https://github.com/scrtlabs/secret-template"
+title = "Secret Contracts Starter - Counter Example"
 use-cargo-generate = true
 
 [[repo]]
