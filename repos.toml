@@ -5,7 +5,6 @@ title = "Secret Contracts Starter"
 [[repo]]
 url = "https://github.com/scrtlabs/secret-template"
 title = "Secret Contracts Starter - Counter Example"
-use-cargo-generate = true
 
 [[repo]]
 url = "https://github.com/scrtlabs/snip20-reference-impl"
