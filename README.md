@@ -5,7 +5,7 @@ Consider this a starting point for all repositories that have been or will be fu
 
 * ✅[Fund Forwarding Contract](https://github.com/luminaryphi/fund-forwarding)
 * ✅[Fund Forwarding (Frontend)](https://github.com/Xiphiar/fund-forwarding-frontend)
-* ✅[NFT Authorization](https://github.com/zorostang/nft-authorization)($500 USD Bounty)
+* ✅[NFT Authorization](https://github.com/srdtrk/nft-authorization)($500 USD Bounty)
 * ✅[NFT Authorization Frontend](https://github.com/zorostang/nft-authorization-front-end)($500 USD Bounty)
 * 🧑‍💻[SCRT-ETH Bridge Examples](https://github.com/zorostang/scrt-eth-bridge-examples)($1,500 USD Bounty)
 * ✅[Secret Factory Contract](https://github.com/zorostang/secret-factory-contract)($1,000 USD Bounty)
