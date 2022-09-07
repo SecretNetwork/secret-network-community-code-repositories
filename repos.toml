@@ -3,6 +3,10 @@ url = "https://github.com/TriviumNode/secret-contract-template"
 title = "Secret Contracts Starter"
 
 [[repo]]
+url = "https://github.com/secretuniversity/secret-template-cw1"
+title = "Secret Contract Starter - CW1.0"
+
+[[repo]]
 url = "https://github.com/scrtlabs/secret-template"
 title = "Secret Contracts Starter - Counter Example"
 
