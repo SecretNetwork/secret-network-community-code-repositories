@@ -19,6 +19,10 @@ url = "https://github.com/luminaryphi/secret-random-minting-snip721-impl"
 title = "Randomized SNIP-721 Mint Implementation"
 
 [[repo]]
+url = "https://github.com/DDT5/snip1155-reference-impl"
+title = "SNIP-1155"
+
+[[repo]]
 url = "https://github.com/zorostang/nft-authorization"
 title = "NFT Authorization"
 
