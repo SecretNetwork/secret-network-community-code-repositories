@@ -20,7 +20,7 @@ title = "Randomized SNIP-721 Mint Implementation"
 
 [[repo]]
 url = "https://github.com/DDT5/snip1155-reference-impl"
-title = "SNIP-1155"
+title = "SNIP-1155 Reference Implementation"
 
 [[repo]]
 url = "https://github.com/zorostang/nft-authorization"
