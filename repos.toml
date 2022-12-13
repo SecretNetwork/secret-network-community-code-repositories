@@ -43,3 +43,7 @@ subfolder = "factory"
 url = "https://github.com/zorostang/secret-factory-contract"
 title = "Factory Contract Offspring"
 subfolder = "offspring"
+
+[[repo]]
+url= "https://github.com/digiline-io/secret-token-vesting"
+title = "Token Vesting"
